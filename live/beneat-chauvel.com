@@ -1,0 +1,1 @@
+/var/share/letsencrypt/live/www.beneat-chauvel.com
